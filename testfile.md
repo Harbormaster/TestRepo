@@ -4,4 +4,4 @@ And here is *some text*.
 
 And here is some **more text**.
 
-And here is YET MORE TEXT!
+And here is YET MORE TEX!
